@@ -28,7 +28,7 @@ The data_cleaning() function reads data from a noc_region.csv file and performs 
 
 Task 3:
 
-Create followinf table in Mysql usimg cleaned datset .csv file 
+Create following table in Mysql usimg cleaned datset .csv file 
 
 olympics_history
 olympics_history_noc_regions
